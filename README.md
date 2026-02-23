@@ -1,4 +1,4 @@
-<img src="assets/ARKTIK Universe%20Logo.png" alt="ARKTIK Logo" width="200">
+<img src="assets/ARKTIK-Universe-Logo.png" alt="ARKTIK Logo" width="200">
 
 # ARKTIK Brand Assets
 
